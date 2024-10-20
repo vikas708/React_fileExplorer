@@ -1,0 +1,39 @@
+{
+    "name": "File Explorer",
+    "type": "folder",
+    "children": [
+        {
+            "name": "node modules",
+            "type": "folder",
+            "children": []
+        },
+        {
+            "name": "public",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "index.html",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "src",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "app.js",
+                    "type": "file"
+                },
+                {
+                    "name": "index.css",
+                    "type": "file"
+                },
+                {
+                    "name": "index.js",
+                    "type": "file"
+                }
+            ]
+        }
+    ]
+}
